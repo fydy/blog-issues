@@ -132,7 +132,7 @@ function GitHubRepoList({ openSourceProject }) {
                 <h2>‎‍👨🏻‍💻 {openSourceProject.title}</h2>
                 <small dangerouslySetInnerHTML={{ __html: openSourceProject.subHeading }} />
                 <br />
-                <a href="https://github.com/mddanishyusuf" className="github-link">
+                <a href="https://github.com/fydy" className="github-link">
                     My GitHub <ExternalLink size={12} />
                 </a>
             </div>
