@@ -46,7 +46,7 @@ export function getPostsByTag(tagName) {
 
 export async function getData() {
     const contentsArray = await fetch(
-        `https://raw.githubusercontent.com/mddanishyusuf/profile-with-github/master/profile.json`
+        `https://raw.githubusercontent.com/fydy/profile-with-github/master/profile.json`
     );
     const profileObj = await contentsArray.json();
 
