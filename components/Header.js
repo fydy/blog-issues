@@ -28,7 +28,7 @@ const Header = function({ labels, logoName, logoSubtitle, summary, router, about
             {router.asPath === '/' && (
                 <div className="profile-container">
                     <div className="user-image">
-                        <img src="https://github.com/mddanishyusuf.png" alt="mohd danish" />
+                        <img src="https://github.com/fydy.png" alt="mohd danish" />
                     </div>
                     <div className="user-bio" dangerouslySetInnerHTML={{ __html: aboutMe.coverLetter }} />
                 </div>
