@@ -1,4 +1,4 @@
-export const repositoryName = 'mddanishyusuf/blog-with-github-issues'; // <username>/<repository_name>
+export const repositoryName = 'fydy/blog-issues'; // <username>/<repository_name>
 
 export const metadata = {
     title: 'Mohd Danish | I write about my daily hacks I do in my Projects',
@@ -8,7 +8,7 @@ export const metadata = {
         'Article about coding, foods, tricks and new things I learn daily. So, It is my daily knowledge base book so called a personal blog',
     summary:
         "Hey 👋, I'm Mohd Danish and I'm Front-end Engineer @anantcorp, Maker of https://public-apis.xyz, https://dailyhack.xyz, https://react-index.com & Open Source Developer, Tech Writer, Foodie 🍳",
-    homeFeaturedImage: 'https://github.com/mddanishyusuf.png',
+    homeFeaturedImage: 'https://github.com/fydy.png',
 };
 
 export const postPerPage = 6;
@@ -24,7 +24,7 @@ export const commentMessage = 'Do you have any comment on this tricks? then let 
 export const socialLinks = [
     {
         name: 'GitHub',
-        link: 'https://github.com/mddanishyusuf',
+        link: 'https://github.com/fydy',
         iconName: 'GitHub',
         show: true,
     },
