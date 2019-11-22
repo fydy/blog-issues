@@ -106,7 +106,7 @@ const CommentBox = function({ comments, number }) {
                 ) : (
                     <div className="no-comments">
                         Do you have any comment on this tricks? then let the author know about that.{' '}
-                        <a href={`https://github.com/mddanishyusuf/blog-with-github-issues/issues/${number}`}>
+                        <a href={`https://github.com/fydy/issues-blog/issues/${number}`}>
                             comment here
                         </a>
                     </div>
